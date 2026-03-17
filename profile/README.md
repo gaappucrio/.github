@@ -7,6 +7,8 @@ Fundado em 2023, o GAAP obteve certificação no Diretório dos Grupos de Pesqui
 
 Em 2025, o grupo foi credenciado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), tornando-se habilitado a realizar atividades de Pesquisa, Desenvolvimento e Inovação (PD&I) com recursos provenientes da Cláusula de Investimento em PD&I, ampliando sua capacidade de cooperação com a indústria e órgãos de fomento.
 
+Para mais informações visite nosso site oficial: https://www.gaap.deqm.puc-rio.br/
+
 ## 🚀 O que fazemos
 O GAAP possui expertise avançada em engenharia química, modelagem, simulação e otimização de processos, avaliação do ciclo de vida e avaliação técnico-econômica de processos. Com uma forte expertise em ciência de dados e inteligência artificial, o GAAP se destaca na detecção e o diagnóstico de falhas de processos, aplicando modelos de aprendizagem de máquina para problemas de regressão e de classificação.
 
