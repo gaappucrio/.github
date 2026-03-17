@@ -1,4 +1,3 @@
-# .github
 # GAAP
 
 ## 👥 Quem somos
